@@ -4,7 +4,6 @@ on:
     inputs:
       url:
         descrption: 'Torrent file URL'
-        requird: true
 jobs:
   download:
     runs-on: ubuntu-latest
