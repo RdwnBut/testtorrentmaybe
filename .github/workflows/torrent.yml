@@ -1,4 +1,4 @@
-name: ci
+name: cAPEK
 
 on:
   push:
