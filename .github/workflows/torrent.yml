@@ -1,7 +1,7 @@
 name: Docker  Torrent Download
 on:
   workflow_dispatch
-    inputs:
+    inputs :
       url:
         descrption: 'Torrent file URL'
 jobs:
